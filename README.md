@@ -1,0 +1,3 @@
+- Fetches country names and flags from a public API.
+- Displays country information in a user-friendly interface.
+- Responsive design suitable for various screen sizes.
