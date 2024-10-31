@@ -10,7 +10,7 @@ This application fetches and displays country names and flags from a public API,
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript (Bootstrap)
 - **API:** REST Countries API
 
 
